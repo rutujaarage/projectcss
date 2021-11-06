@@ -1,0 +1,175 @@
+.card{
+    margin-top: 50px;
+    position: absolute;
+    text-align:center;
+    margin-left: 250px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.header{
+     display: flex;
+     justify-content: space-between; 
+    font-size:larger;
+   margin-top: 100px;
+}
+.span1{
+    margin-left: 20%;
+    font-size: 40px;
+}
+.span2{
+    margin-right:400px;
+    font-size:25px;
+    color: grey;
+}
+
+
+   
+.card1{
+    border: 1px solid red;
+    border-radius:10px ;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+    display:inline-block;
+    margin-right: 50px; 
+    
+}
+ .card2{
+    border: 1px solid red;
+    border-radius:10px ;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin-right: 50px; 
+}
+ .card3{
+    border: 1px solid red;
+    border-radius:10px ;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+    margin-right: 50px; 
+    display:inline-block;
+   
+
+}
+.back{
+    margin-left: 60px;
+}
+
+.div1{
+    position:relative;
+    color: red;
+    font-size: 25px;
+    width: 85%;
+    height: 15%;
+    border-bottom:1px solid red;
+    left: 50px;
+}
+.div2{
+    position:relative;
+    color: red;
+    top: 25px;
+    font-size: 20px;
+    width: 85%;
+    height: 15%;
+    left: 30px;
+  
+}
+.div3{
+    position:relative;
+    color:black;
+    top: 25px;
+    font-size: 20px;
+    width: 85%;
+    height: 15%;
+    margin-right:100px;
+    left:20px ;
+}
+.div4{
+    position: absolute;
+    bottom: 10px;
+    left: 250px;
+  
+}
+/*second page*/
+.cardA{
+    
+        margin-top: 50px;
+        position: absolute;
+        text-align:center;
+        margin-left: 500px;
+        display:flex;
+        justify-content: space-between;
+        
+
+}
+a{
+    text-decoration: none;
+    margin-left: 400px;
+
+}
+.heading{
+    margin-left: 500px;
+    font-size: x-large;
+
+}
+.h1::before , .h1::after{
+    content: "";
+   flex: 1 1;
+   border-bottom: 2px solid #000;
+   
+}
+/* third page*/
+.add{
+    border: 2px solid red;
+    border-radius:10px ;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    color: red;
+    margin-top: 300px;
+    margin-left: 500px;
+    
+    
+   
+}
+
+.emptybox{
+    border: 1px solid red;
+    border-radius: 5px;
+    box-sizing: content-box;
+    width:300px ;
+    height:30px;
+    margin-left:50px ;
+    
+}
+.add2{
+    border: 1px solid red;
+    border-radius: 15px;
+   margin-bottom: 400px;
+   margin-top: 20px;
+   width: 100px;
+   height:30px ;
+   text-align: center;
+   margin-left: 90px;
+   background-color: red;
+   color: white;
+   font-weight:bold ;
+   font-size: larger;
+}
+.back{
+    color: black;
+}
+.new{
+    background-image: url(./index1.html);
+    filter: blur(8px);
+}
+
+
+
