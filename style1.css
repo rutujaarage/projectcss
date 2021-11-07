@@ -60,6 +60,7 @@
 }
 .back{
     margin-left: 60px;
+    margin-top: 30px;
 }
 
 .div1{
@@ -112,7 +113,8 @@
 a{
     text-decoration: none;
     margin-left: 400px;
-
+    /* text-align: center; */
+   
 }
 .heading{
     margin-left: 500px;
@@ -133,11 +135,8 @@ a{
     height: 180px;
     text-align: center;
     color: red;
-    margin-top: 300px;
+    margin-top: 100px;
     margin-left: 500px;
-    
-    
-   
 }
 
 .emptybox{
@@ -160,15 +159,20 @@ a{
    margin-left: 90px;
    background-color: red;
    color: white;
-   font-weight:bold ;
-   font-size: larger;
+   /* font-weight:bold ;
+   font-size: larger; */
 }
 .back{
     color: black;
+    margin-top: auto;
 }
 .new{
-    background-image: url(./index1.html);
-    filter: blur(8px);
+   filter: blur(5px);
+
+}
+.first{
+    margin-left: 800px;
+    text-decoration: none;
 }
 
 
